@@ -20,3 +20,4 @@ Visualization aid for teaching and presentations
 **Tech Stack**
 
 Python (NumPy, Matplotlib)
+<img width="800" height="800" alt="mccabe_thiele_diagram" src="https://github.com/user-attachments/assets/f4a697e2-274d-4ac7-b573-b9beaf9c2a8d" />
